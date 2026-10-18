@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap');
+
+:root {
+    --laranja-padrao: #e77601;
+    --azul-padrao: #1f0270;
+    --verde-padrao: #01913c;
+    --preto-padrao: #000000;
+    --branco-padrao: #d9e5d6;
+    --fonte-padrao: 'Oswald', sans-serif;
+}
+
+
+.header {
+    background-color: var(--laranja-padrao);
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    border-bottom: 4px solid var(--verde-padrao);
+}
+.div-imagem-header {
+    display: flex;
+    height: 120px;
+    padding: 20px;
+    padding-left: 70px;
+}
+#titulo-header {
+    font-family: var(--fonte-padrao);
+    color: var(--branco-padrao);
+    font-size: 50px;
+    padding: 20px;
+    padding-left: 40px;
+}
+
+main {
+    background-color: var(--azul-padrao);
+}
