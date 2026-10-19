@@ -1,1 +1,2 @@
-# Semana-Reducao-de-Riscos-DC
+# Semana Reducao de Riscos
+Para o nosso projeto, escolhemos os Tornados como tema. É um pagina simples, usando somente HTML e CSS.
